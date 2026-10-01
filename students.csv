@@ -1,0 +1,12 @@
+id,name,group,mark_1,mark_2,mark_3,mark_4
+1,Gena,1,1,2,3,
+2,Ben,2,,9,8,10
+3,Clara,1,8,8,,7
+4,Anna,,,,,
+5,Elena,2,10,10,10,10
+6,Felix,3,,,,
+7,Greta,1,9,,8,6
+8,Hugo,2,4,5,,
+9,Irina,3,7,8,9,10
+10,Jonas,1,6,,7,8
+11,Kate,2,10,9,8,7
